@@ -4,7 +4,7 @@
 
 ##  About Me
 
-Also known online as **Snorty** — I'm an 18-year-old tech enthusiast from Rome, Italy, with a strong passion for **cybersecurity**, **ethical hacking**, and **programming**.
+Also known online as **Snorty** — I'm an 19-year-old tech enthusiast from Rome, Italy, with a strong passion for **cybersecurity**, **ethical hacking**, and **programming**.
 
 I love exploring how systems work, breaking them down, understanding their weaknesses, and learning how to make them stronger. This drive to understand *and* build is what pushes most of my projects.
 
