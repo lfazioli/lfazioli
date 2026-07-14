@@ -1,4 +1,4 @@
-# 💻 Hi, I'm Lorenzo 👋
+# 💻 Hi, I'm Lorenzo 
 
 ![Hacker](https://github.com/lfazioli/lfazioli/blob/main/Programmatore%20a%20lavoro%20con%20codice.png)
 
