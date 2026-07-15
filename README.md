@@ -20,7 +20,14 @@ If you're passionate about tech, hacking, or programming — you're in the right
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-fazioli) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/snorty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lorenzo.fazioli@gmail.com)
 
 ---
+---
 
+## Certifications
+
+- 🎓 **Cisco Certified Network Associate (CCNA) 1 – Introduction to Networks**
+- 🐍 **Python Essentials 1**
+
+---
 ##  Tech Stack
 
 **Languages**
