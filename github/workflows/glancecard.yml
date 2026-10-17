@@ -1,0 +1,25 @@
+name: glancecard
+
+on:
+  schedule:
+    - cron: "30 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gfazioli/glancecard@v0.3.0
+        with:
+          profile: lfazioli
+          repos: |
+            lfazioli/IP-SCAN
+            lfazioli/password-cracker
+            lfazioli/Portscanner
+          theme: both
+          time-zone: Europe/Rome
