@@ -57,9 +57,10 @@ If you're passionate about tech, hacking, or programming — you're in the right
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lfazioli&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1" alt="lfazioli's trophies">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake.svg" alt="Snake che mangia i miei contributi">
+</picture>
 
 ---
 
