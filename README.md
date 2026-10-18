@@ -50,11 +50,10 @@ If you're passionate about tech, hacking, or programming — you're in the right
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=lfazioli&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=lfazioli&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lfazioli&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="lfazioli's GitHub activity">
+</picture>
 
 ## 🏆 GitHub Trophies
 
