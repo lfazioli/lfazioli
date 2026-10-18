@@ -56,7 +56,6 @@ If you're passionate about tech, hacking, or programming — you're in the right
 </picture>
 
 ## 🏆 GitHub Trophies
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake.svg" alt="Snake che mangia i miei contributi">
