@@ -50,15 +50,14 @@ If you're passionate about tech, hacking, or programming — you're in the right
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
-  <img src="glancecard/profile-light.svg" width="880" alt="lfazioli's GitHub activity">
-</picture><br>
-<sub>Made with <a href="https://github.com/gfazioli/glancecard">glancecard</a> · refreshed daily</sub>
-
-## 🏆 GitHub Trophies
 <img src="glancecard/profile.svg" width="880" alt="lfazioli's GitHub activity"><br>
 <sub>Made with <a href="https://github.com/gfazioli/glancecard">glancecard</a> · refreshed daily</sub>
+
+## 🏆 GitHub Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/lfazioli/lfazioli/output/snake.svg" alt="Snake che mangia i miei contributi">
+</picture>
 
 ---
 
