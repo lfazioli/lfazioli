@@ -50,7 +50,10 @@ If you're passionate about tech, hacking, or programming — you're in the right
 
 ## 📊 GitHub Stats
 
-<img src="glancecard/your-repo.svg" width="880" alt="your-repo at a glance"><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
+  <img src="glancecard/profile-light.svg" width="880" alt="lfazioli's GitHub activity">
+</picture><br>
 <sub>Made with <a href="https://github.com/gfazioli/glancecard">glancecard</a> · refreshed daily</sub>
 
 ## 🏆 GitHub Trophies
